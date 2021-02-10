@@ -32,4 +32,4 @@ docker run -p 8050:8050 -t <YOUR IMAGE NAME>
 
 Logon on to your browser at `127.0.0.1:8050` and access the webapp
 
-You can find the approach to the task [here](Nanos Machine Learning Task Approach_2.pdf)
+You can find the approach to the task [here](https://github.com/NickDee96/nanos-mltest/blob/master/Nanos%20Machine%20Learning%20Task%20Approach_2.pdf)
